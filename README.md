@@ -1,5 +1,5 @@
 # 💫 About Me:
-Keen to learn new things. Worked as Backend dev. Currently exploring the AI domain<br>Would like to collaborate with other developers
+Computer Science and Business Systems undergraduate specializing in Generative AI, Multi-Agent Systems, and LLM evaluation. Experienced in building AI-powered web and mobile applications using React, Next.js, Node.js, FastAPI, and SQL databases. Hands-on experience with LangChain, LangGraph, PEFT (LoRA/QLoRA), Google Agent ADK, and Claude Agent SDK. Passionate about developing reliable AI systems and seeking internships in Applied AI, Agentic AI, and LLM Engineering.
 
 
 ## 🌐 Socials:
